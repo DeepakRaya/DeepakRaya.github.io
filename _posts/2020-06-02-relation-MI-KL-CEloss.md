@@ -11,12 +11,12 @@ mathjax: true
 * TOC
 {:toc}
 
-## The intutive defination of Mutual Information
+## The intutive definition of Mutual Information
 will define soon:P
 ## Why is Mutual information important and Maximally informative dimentions 
 
 ## KL divergence and MI
-they both have very close realtion as that of MI ans conditional entropy 
+they both have very close relation as that of MI and conditional entropy 
 .......
 
 More to come just getting stated, will come back soon
