@@ -11,19 +11,19 @@ mathjax: true
 * TOC
 {:toc}
 
-##Why Wavelets?: The intutuion behind wavelets
+## Why Wavelets?: The intutuion behind wavelets
 
 
 
-##The Mexican Hat and Other wavelet basis fuctions
+## The Mexican Hat and Other wavelet basis fuctions
 
 
 
-##The Mathematical description
+## The Mathematical description
 
 
 
-##Most important applications of waveltes for modern technologies
+# #Most important applications of waveltes for modern technologies
 
 
 
