@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Deepak Raya V
+email: v.deepakraya@gmail.com
+description: "By Deepak Raya"
+baseurl: ""
+url: "https://deepakraya.github.io"
+twitter_username: V.Deepak Raya
+github_username: DeepakRaya
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
