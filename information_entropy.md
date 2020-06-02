@@ -11,7 +11,7 @@ mathjax: true
 * TOC
 {:toc}
 
-## Introduction and Trace Tricks
+## Introduction and A Trick of Trace UVW
 
 The pdf of a [multivariate gaussian](https://en.wikipedia.org/wiki/Multivariate_normal_distribution) is as follows:
 
@@ -71,10 +71,10 @@ the equation is
 $$\ln\left((\sqrt{2\pi})^{N}\sqrt{\det C}\right)$$
 
 $$=\frac{N}{2}\ln\left(2\pi\right)+\frac{1}{2}\ln\det C$$
+Now we consider the second ln term
+
 
 ### Second term  (Trace Trick Coming!)
-
-Now we consider the second ln term
 
 $$-\int p(x)\ln\left(e^{-\frac{1}{2}(x-\mu)^{T}\Sigma^{-1}(x-\mu)}\right)dx$$
 
