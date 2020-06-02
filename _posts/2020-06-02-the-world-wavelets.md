@@ -23,7 +23,7 @@ mathjax: true
 
 
 
-# #Most important applications of waveltes for modern technologies
+## Most important applications of waveltes for modern technologies
 
 
 
