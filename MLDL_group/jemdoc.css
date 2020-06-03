@@ -263,6 +263,7 @@ div.blockcontent p + ul, div.blockcontent p + ol {
 }
 
 div.infoblock p {
+	text-align: justify;
     margin-bottom: 0em;
 }
 
