@@ -20,9 +20,10 @@ mutual information between these two, quantifies the reduction in uncertainity a
 ### Why is Mutual information important and Maximally informative dimentions 
 
 ### Mutual information and KL divergence
-They both have very close relation as that of MI and conditional entropy 
-
-
+KL divergence between any two random variable distributions tells us about, how different are the two distributions.
+Mutual information tells us how much information one variable contains, about another random variable._one thing to always remember:_ lower the uncertainity, lower the information (Recall the honorable Claude Shannon's, definition of Information). 
+................
+Now, think about relating these two(Hint: Use the mathematical description of mutual information, Kl divergence and Cross Entropy)
 .....More to come just getting stated, will come back soon
 #### Deep think !!!
 1. Since mutual information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
