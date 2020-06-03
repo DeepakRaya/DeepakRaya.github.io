@@ -117,11 +117,11 @@ a:visited { color: #205caa; }
   margin-right: 10px
 }
 .footer-col-2 {
-  width: 100px; /*fallback*/
-  width: -webkit-calc(20% - 10px);
-  width: -moz-calc(20% - 10px);
-  width: -o-calc(20% - 10px);
-  width: calc(20% - 10px);
+  width: 270px; /*fallback*/
+  width: -webkit-calc(5% - 10px);
+  width: -moz-calc(5% - 10px);
+  width: -o-calc(5% - 10px);
+  width: calc(5% - 10px);
   margin-right: 10px
 }
 .footer-col-3 {
