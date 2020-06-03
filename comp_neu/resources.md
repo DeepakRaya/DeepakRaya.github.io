@@ -2,7 +2,7 @@
 layout: post
 permalink: /learning-resources/
 include: true
-title:  "Relations between Mutual information, Cross entropy, KL Divergence"
+title:  "Comp Neuro"
 excerpt: "Quantizing the relations between two random variables"
 date:   2020-06-02 10:00:00
 mathjax: true
