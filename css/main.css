@@ -118,10 +118,10 @@ a:visited { color: #205caa; }
 }
 .footer-col-2 {
   width: 270px; /*fallback*/
-  width: -webkit-calc(5% - 10px);
-  width: -moz-calc(5% - 10px);
-  width: -o-calc(5% - 10px);
-  width: calc(5% - 10px);
+  width: -webkit-calc(35% - 10px);
+  width: -moz-calc(35% - 10px);
+  width: -o-calc(35% - 10px);
+  width: calc(35% - 10px);
   margin-right: 10px
 }
 .footer-col-3 {
