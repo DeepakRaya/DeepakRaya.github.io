@@ -29,4 +29,4 @@ Now, think about relating these two(Hint: Use the mathematical description of mu
 .....More to come just getting stated, will come back soon
 
 #### Deep think !!!
-1. Since mutual information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
+1.Since mutual information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
