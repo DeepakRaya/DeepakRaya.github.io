@@ -63,12 +63,17 @@ $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
 
 ### Why is Mutual information, KL Divergnece important
-1.While extracting features from a signal or image for classification using linear filters, it is best to choose the filter's characteristics functions or 
-weights such that KL divergence between prior distribution of extracted features and conditional distribution of extracted features is maximum.<br/>
-This is equivalent of maximizing mutual information between the signal and extracted features.<br/>
-The Principle component analysis, used commonly in many signal processing and machine learning tasks (which is used to capture the maximum variance of the data ), in fact maximizes this mutual information.<br/>
+1.While extracting features from a signal or image for classification using filters, it is best to choose the filter's characteristic function or 
+weights such that KL divergence between the distribution of extracted features and class conditional distribution of extracted features is maximum.<br/>
+This is equivalent of maximizing mutual information between the signal/Data and classes. <br/>
+The Principle component analysis, used often in many signal processing and machine learning tasks, to select dimensions that capture maximum 
+variance in the data, in fact maximizes this mutual information.<br/>
+<br/> <img src="/Assets/linear_filtering.png" title="Shy" width="610" height="205" /> <br/>
+
+>Mutual Information helps in selecting **maximally informative dimensions**
 <br/>
-2.Source coding, Channel coding in communication systems analsysis depend a lot on Mutual information.
+
+2.Source coding, Channel coding in communication systems, mostly revolve around Mutual information.
 
 
 >**NOTE:**<br/> 
@@ -78,6 +83,6 @@ The Principle component analysis, used commonly in many signal processing and ma
 <br/>
 
 
-#### Deep think !!!
+### Deep think !!!
 1.Since Mutual Information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
 
