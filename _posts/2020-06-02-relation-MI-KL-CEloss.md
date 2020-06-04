@@ -19,8 +19,8 @@ mutual information between these two, quantifies the reduction in uncertainity a
 If the two random variables $$v_s$$ and $$v_g$$ are independent, the mutual information between them is zero. i.e. $$v_s$$ and $$v_g$$ don't share any information.
 #### Let's discuss some mathematical discription and few other terms
 let us denote Mutual information with $$I(v_s, v_g)$$ 
-$$I(v_s, v_g) /, = /Sigma /, p(v_s, v_g) /, log_{2}/dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$
-$$ = 
+$$I(v_s, v_g) \, = \sum \, p(v_s, v_g) \, log_{2}\dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$
+$$ =$$ 
 ### Why is Mutual information important and Maximally informative dimentions 
 
 will be back soom...........
