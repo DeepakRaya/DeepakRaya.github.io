@@ -80,7 +80,7 @@ So balance your twin angles as you always do, and you are awesome!!!
 
 ### Most importantly, She is my awesome sister!!
 #### Love you sis!!
-<br/> <img src="/Harita_Bday_Wishes/my_best_sis.jpg" title="" width="300" height="355" /> <br/>
+<br/> <img src="/Harita_Bday_Wishes/my_best_sis.jpg" title="" width="300" height="375" /> <br/>
 
 ***
 
