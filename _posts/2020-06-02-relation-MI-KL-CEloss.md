@@ -19,7 +19,7 @@ mutual information between these two, quantifies the reduction in uncertainity a
 If the two random variables $$v_s$$ and $$v_g$$ are independent, the mutual information between them is zero. i.e. $$v_s$$ and $$v_g$$ don't share any information.
 ### Let's discuss some mathematical discription and few other terms
 **Conditional Entropy $$H(v_s|v_g)$$:**<br/>
-It is the amount of information gained, once the outcome of v_s is known, given the outcome v_g <br/>
+It is the amount of information gained, once the outcome of $$v_s$$ is known, given the outcome $$v_g$$ <br/>
 **Joint Entropy $$H(v_s,v_g)$$ :**<br/>
 It is the entropy of joint distribution of two random variables.<br/>
 <br/>
@@ -54,7 +54,8 @@ When the true distribution is $$P$$ (think of $$P$$ as ground truth data distrib
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
 $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
-**Cross Entropy = KL divergence $$+$$ Entropy** (i.e$$H(P,Q)\,=\,D_{KL}(P||Q)\,+\,H(P)$$).
+**Cross Entropy = KL divergence $$+$$ Entropy** (i.e $$H(P,Q)\,=\,D_{KL}(P||Q)\,+\,H(P)$$ ).<br/>
+<br/>
 
 >Therfore, KL Divergence is the difference between Cross entropy and entropy<br/>
 >Hence, KL divergence is also called as Relative entropy<br/>
