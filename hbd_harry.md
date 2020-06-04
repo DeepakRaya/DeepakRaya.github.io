@@ -14,4 +14,4 @@ mathjax: false
 
 ## Wish you a very happy birthday Harita!
 
-![image](https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita%20Bday%20Wishes/hari_active.jpg =100x20)
+![Happy Happy birthday harry](https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita%20Bday%20Wishes/hari_active.jpg)
