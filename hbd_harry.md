@@ -73,7 +73,7 @@ mathjax: false
 >Don't self sarbotage yourself, by thinking you are not productive, you are productive, **believe in yourself**.<br/>
 Keep the balance as this picture shows, take a pause, step back, and get started, It's never too late, you have a great perseverence and
 patience, so dont be down, you will achieve your goals.
-So balance your twin angles as you always do, and you are awesome!!! 
+>So balance your twin angles as you always do, and you are awesome!!! 
 <br/> <img src="/Harita_Bday_Wishes/hari_balance_twins.jpg" title="Twin Balance" width="250" height="355" /> <br/>
 
 ***
