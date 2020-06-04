@@ -2,7 +2,7 @@
 layout: post
 include: true
 title:  "Relations between Mutual information, Cross entropy, KL Divergence"
-excerpt: "Quantizing the relations between two random variables"
+excerpt: "Quantizing the relations between two random variables and distributions"
 date:   2020-06-02 10:00:00
 mathjax: true
 ---
@@ -15,8 +15,12 @@ mathjax: true
 Mutual information is the measure of **reduction in the uncertainity** about one quantity (a random variable), that is achieved *by observing another quantity* (another random variable).
 **_Take for example :_** A car moving with certain velocity(say $$v_s$$) which is given by its on board sensor(A noisy speedometer), and there is a GPS receiver on the car which measures 
 rate of change of position (velocity of the car) say $$v_g$$, now since there is some process ans measurment noise, we can say $$v_s$$ and $$v_g$$ are random variables, now the 
-mutual information between these two, quantifies the reduction in uncertainity about $$v_s$$, given $$v_g$$
- 
+mutual information between these two, quantifies the reduction in uncertainity about $$v_s$$, given $$v_g$$.<br/>
+If the two random variables $$v_s$$ and $$v_g$$ are independent, the mutual information between them is zero. i.e. $$v_s$$ and $$v_g$$ don't share any information.
+#### Let's discuss some mathematical discription and few other terms
+let us denote Mutual information with $$I(v_s, v_g)$$ 
+$$I(v_s, v_g) /, = /Sigma /, p(v_s, v_g) /, log_{2}/dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$
+$$ = 
 ### Why is Mutual information important and Maximally informative dimentions 
 
 will be back soom...........
