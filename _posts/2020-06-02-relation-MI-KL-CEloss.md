@@ -54,7 +54,7 @@ When the true distribution is $$P$$ (think of $$P$$ as ground truth data distrib
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
 $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
-**Cross Entropy = KL divergence $$+$$ Entropy** (i.e $$H(P,Q)\,=\,D_{KL}(P||Q)\,+\,H(P)$$ ).<br/>
+**Cross Entropy = KL divergence $$+$$ Entropy** (i.e $$H(P,Q) \, = \, D_{KL}(P||Q) \, + \, H(P)$$).<br/>
 <br/>
 
 >Therfore, KL Divergence is the difference between Cross entropy and entropy<br/>
