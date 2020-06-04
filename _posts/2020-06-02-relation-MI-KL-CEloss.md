@@ -58,10 +58,13 @@ $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
 
 ### Why is Mutual information, KL Divergnece important
-While extracting features from a signal or image for classification using linear filters, it is best to choose the filter's characteristics functions or 
+1. While extracting features from a signal or image for classification using linear filters, it is best to choose the filter's characteristics functions or 
 weights such that KL divergence between prior distribution of extracted features and conditional distribution of extracted features is maximum.<br/>
 This is equivalent of maximizing mutual information between the signal and extracted features.<br/>
-The Principle component analysis, used commonly in many signal processing and machine learning tasks (which is used to capture the maximum variance of the data ), in fact maximizes this mutual information.
+The Principle component analysis, used commonly in many signal processing and machine learning tasks (which is used to capture the maximum variance of the data ), in fact maximizes this mutual information.<br/>
+<br/>
+2. Source coding, Channel coding in communication systems analsysis depend a lot on Mutual information.
+
 
 >**NOTE:**<br/> 
 >Mutual Information, joint Enropy and conditional entropy are referred in terms of random variables<br/>
