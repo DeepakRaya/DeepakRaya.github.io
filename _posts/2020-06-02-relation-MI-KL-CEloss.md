@@ -48,7 +48,7 @@ i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this is ob
 >But, why?
 <br/>
 
-Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**<br>.
+Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**.<br>
 **Cross Entropy $$H(P,Q)$$:**<br/>
 When the true distribution is $$P$$ (think of $$P$$ as ground truth data distribution), the encoding of random variable can be based on another distribution $$Q$$ (think of $$Q$$ as the model's output distribution) as a model that approximates $$P$$. 
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
