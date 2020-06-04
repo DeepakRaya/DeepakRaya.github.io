@@ -82,7 +82,3 @@ variance in the data, in fact maximizes this mutual information.<br/>
 >but, both are defined using probability distributions
 <br/>
 
-
-### Deep think !!!
-1.Since Mutual Information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
-
