@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hbd_harry/
-include: false
+include: true
 title:  "Wish you a Very Happy birthday Harita !!! :)"
 excerpt: "Harita Turns 22 in 2020"
 date:   2020-06-04 10:00:00
