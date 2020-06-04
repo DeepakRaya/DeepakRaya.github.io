@@ -12,5 +12,6 @@ mathjax: false
 {:toc}
 
 
-##Wish you a very happy birthday Harita!! 
-![alt text](https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita%20Bday%20Wishes/hari_active.jpg =100x20)
+## Wish you a very happy birthday Harita!
+
+![image](https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita%20Bday%20Wishes/hari_active.jpg =100x20)
