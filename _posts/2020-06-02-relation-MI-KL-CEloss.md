@@ -26,7 +26,7 @@ It is the entropy of joint distribution of two random variables.<br/>
 Let us denote Mutual information with $$I(v_s, v_g)$$ ,<br/>
 $$I(v_s, v_g) \, = \sum \, p(v_s, v_g) \, \log_{2}\dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$<br/>
 let, $$H(.)$$ denote the Shanon's Entropy function<br/>
-$$I(v_s, v_g) \, = \, H(v_s)\, - \, H(v_s|v_g) = H(v_g)\, - \, H(v_g|v_s)$$
+$$I(v_s, v_g) \, = \, H(v_s)\, - \, H(v_s|v_g) = H(v_g)\, - \, H(v_g|v_s)$$<br/>
 $$= H(v_s)\, + \,H(v_g) \, - \, H(v_s,v_g)$$<br/> 
 
 ### Mutual information and KL divergence
@@ -42,7 +42,7 @@ $$D_{KL}(P||Q)\, = \, \sum P\,\log_{2}\, \dfrac{P}{Q}$$ <br/>
 <br/>
 
 Therefore, the Mutual information is the KL divergence between joint distribution and product distribution(The joint distribution if the two random variables were independent) of $$v_s$$  and $$v_g$$
-i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this obvious by comparing the definitions of  Mutual information and KL Divergence.<br/>
+i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this is obvious by comparing the definitions of  Mutual information and KL Divergence.<br/>
 
 >KL divergence is also know as **relative entropy**<br/>
 >But, why?
