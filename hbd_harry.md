@@ -57,8 +57,8 @@ mathjax: false
 
 ### Colourful and awesome moments spent.
 #### We had lot of fun, awesome and cherishable moments and memories together. 
-#### Always Happy, enegetic person, Don't loose those qualities, no matter what.
-<br/> <img src="/Harita_Bday_Wishes/hand_prints.jpg" title="Awesome" width="300" height="345" /> <br/>
+#### Always Happy, energetic person, Don't loose those qualities, no matter what.
+<br/> <img src="/Harita_Bday_Wishes/hand_prints.jpg" title="Awesome" width="300" height="355" /> <br/>
 
 ***
 
