@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /hbd_harry/
 include: true
 title:  "Wish you a Very Happy birthday Harita !!! :)"
