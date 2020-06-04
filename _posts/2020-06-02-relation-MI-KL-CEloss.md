@@ -26,7 +26,9 @@ It is the entropy of joint distribution of two random variables.<br/>
 Let us denote Mutual information with $$I(v_s, v_g)$$ ,<br/>
 $$I(v_s, v_g) \, = \sum \, p(v_s, v_g) \, \log_{2}\dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$<br/>
 let, $$H(.)$$ denote the Shanon's Entropy function<br/>
-$$I(v_s, v_g) \, = \, H(v_s)\, - \, H(v_s|v_g) = H(v_g)\, - \, H(v_g|v_s) = H(v_s)\, + \,H(v_g) \, - \, H(v_s,v_g)$$ 
+$$I(v_s, v_g) \, = \, H(v_s)\, - \, H(v_s|v_g) = H(v_g)\, - \, H(v_g|v_s)$$
+$$= H(v_s)\, + \,H(v_g) \, - \, H(v_s,v_g)$$<br/> 
+
 ### Mutual information and KL divergence
 KL divergence between any two random variable **distributions** tells us about, how different are the two distributions.
 Mutual information tells us how much information one random variable contains, about another random variable.
@@ -50,7 +52,7 @@ When the true distribution is $$P$$ (think of $$P$$ as ground truth data distrib
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
 $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
-**Cross Entropy = KL divergence + Entropy**, i.e. $$H(P,Q) \,=\, D_{KL}(P\,||\,Q)\, - \,H(P)$$<br/>
+**Cross Entropy = KL divergence $$+$$ Entropy**, i.e. $$H(P,Q)\,=\,D_{KL}(P||Q)\,-\,H(P)$$ <br/>
 
 >Therfore, KL Divergence is the difference between Cross entropy and entropy<br/>
 >Hence, KL divergence is also called as Relative entropy<br/>
