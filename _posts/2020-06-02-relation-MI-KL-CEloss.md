@@ -46,11 +46,11 @@ i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this obvio
 <br/>
 Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**<br>
 **Cross Entropy $$H(P,Q)$$:**<br/>
-When the true distribution $$P$$ is unknown, the encoding of random variable can be based on another distribution $$Q$$ as a model that approximates $$P$$. 
+When the true distribution is $$P$$ (think of $$P$$ as ground truth data distribution), the encoding of random variable can be based on another distribution $$Q$$ (think of $$Q$$ as the model's output distribution) as a model that approximates $$P$$. 
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
 $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
-**Cross Entropy = KL divergence + Enropy** i.e.$$H(P,Q) \,=\, D_{KL}(P||Q)\, - \,H(P)$$<br/>
+**Cross Entropy = KL divergence + Entropy** i.e.$$H(P,Q) \,=\, D_{KL}(P||Q)\, - \,H(P)$$<br/>
 
 >Therfore, KL Divergence is the difference between Cross entropy and entropy<br/>
 >Hence, KL divergence is also called as Relative entropy<br/>
@@ -58,8 +58,18 @@ $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
 
 ### Why is Mutual information, KL Divergnece important
+While extracting features from a signal or image for classification using linear filters, it is best to choose the filter's characteristics functions or 
+weights such that KL divergence between prior distribution of extracted features and conditional distribution of extracted features is maximum.<br/>
+This is equivalent of maximizing mutual information between the signal and extracted features.<br/>
+The Principle component analysis, used commonly in many signal processing and machine learning tasks (which is used to capture the maximum variance of the data ), in fact maximizes this mutual information.
 
-
-
+>**NOTE:**<br/> 
+>Mutual Information, joint Enropy and conditional entropy are referred in terms of random variables<br/>
+>Cross Entropy, KL divergence are refered in terms of Probability distributions<br/>
+>but, both are defined using probability distributions<br/>
+<br/>
 #### Deep think !!!
-1.Since mutual information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
+1.Since Mutual Information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
+2.
+3.
+
