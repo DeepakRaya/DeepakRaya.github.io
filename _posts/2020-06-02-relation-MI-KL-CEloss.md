@@ -43,9 +43,9 @@ $$D_{KL}(P||Q)\, = \, \sum p\,\log_{2}\, \dfrac{P}{Q}$$ <br/>
 Therefore, the Mutual information is the KL divergence between joint distribution and product distribution(The joint distribution if the two random variables were independent) of $$v_s$$  and $$v_g$$
 i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this obvious by comparing the definitions of  Mutual information and KL Divergence.<br/>
 
->KL divergence is also know as **relative entropy**<br/>
->But, why?<br/>
-<br/>
+>KL divergence is also know as **relative entropy**
+>But, why?
+
 Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**<br>
 **Cross Entropy $$H(P,Q)$$:**<br/>
 When the true distribution is $$P$$ (think of $$P$$ as ground truth data distribution), the encoding of random variable can be based on another distribution $$Q$$ (think of $$Q$$ as the model's output distribution) as a model that approximates $$P$$. 
