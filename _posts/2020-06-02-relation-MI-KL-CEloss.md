@@ -38,23 +38,23 @@ Mutual information tells us how much information one random variable contains, a
 
 **The KL divergence $$(D_{KL}(p||q))$$:**<br/>
 The KL divergence between two probability distributions P and Q is,<br/>
-$$D_{KL}(P||Q)\, = \, \sum p\,\log_{2}\, \dfrac{P}{Q}$$ <br/>
+$$D_{KL}(P||Q)\, = \, \sum P\,\log_{2}\, \dfrac{P}{Q}$$ <br/>
 <br/>
 
 Therefore, the Mutual information is the KL divergence between joint distribution and product distribution(The joint distribution if the two random variables were independent) of $$v_s$$  and $$v_g$$
 i.e. $$ I(v_s, v_g) \, = \, D_{KL}(p(v_g,v_s)\,||\, p(v_g)p(v_s)) $$, this obvious by comparing the definitions of  Mutual information and KL Divergence.<br/>
 
->KL divergence is also know as **relative entropy**
+>KL divergence is also know as **relative entropy**<br/>
 >But, why?
 <br/>
 
-Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**<br>
+Before proceeding with the answer, we must go through one more term i.e. The **cross entropy**<br>.
 **Cross Entropy $$H(P,Q)$$:**<br/>
 When the true distribution is $$P$$ (think of $$P$$ as ground truth data distribution), the encoding of random variable can be based on another distribution $$Q$$ (think of $$Q$$ as the model's output distribution) as a model that approximates $$P$$. 
 Then the average of the total number of bits needed to represent it, is called the cross-entropy.<br/>
 $$H(P,Q)\,=\,\sum_i\,P_i\,\log_2\,\dfrac{1}{Q_i}$$<br/>
 
-**Cross Entropy = KL divergence $$+$$ Entropy**
+**Cross Entropy = KL divergence $$+$$ Entropy** (i.e$$H(P,Q)\,=\,D_{KL}(P||Q)\,+\,H(P)$$).
 
 >Therfore, KL Divergence is the difference between Cross entropy and entropy<br/>
 >Hence, KL divergence is also called as Relative entropy<br/>
@@ -73,9 +73,9 @@ The Principle component analysis, used commonly in many signal processing and ma
 >**NOTE:**<br/> 
 >Mutual Information, joint Enropy and conditional entropy are referred in terms of random variables<br/>
 >Cross Entropy, KL divergence are refered in terms of Probability distributions<br/>
->but, both are defined using probability distributions<br/>
+>but, both are defined using probability distributions
 <br/>
-<br/>
+
 
 #### Deep think !!!
 1.Since Mutual Information is relating one random variable distribution with other, is there any relation between **importance sampling** and **Mutual information**?
