@@ -15,4 +15,4 @@ mathjax: false
 
 ### Very enegetic person, A happy person 
 #### always, keep smiling!!
-<img src="https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita%20Bday%20Wishes/hari_active.jpg" width="200" height="200" />
+<img src="https://github.com/DeepakRaya/DeepakRaya.github.io/tree/master/Harita_Bday_Wishes/hari_active.jpg" width="200" height="200" />
