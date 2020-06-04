@@ -71,8 +71,8 @@ mathjax: false
 ### Harita, I will show you your twin.
 #### You have both angles of being productive and entertaining 
 >Don't self sabotage yourself, by thinking that you are not being productive, **believe in yourself** that you are productive.<br/>
->Keep the balance, as this picture shows, take a pause, step back, and get started, It's never too late, you have a great perseverence and
->patience, so dont be down,
+>Keep the balance of your twin angles as the picture shows, take a pause, step back, and get started, It's never too late, you have a great perseverence and
+>patience, so don't be down,
 >leave the fake pain that you created for yourself and move forward, you will achieve your goals
 >So balance your twin angles as you used to do, and you are awesome!!! 
 
