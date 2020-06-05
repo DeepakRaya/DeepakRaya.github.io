@@ -27,9 +27,9 @@ Let us denote Mutual information with $$I(v_s, v_g)$$ ,<br/>
 $$I(v_s, v_g) \, = \sum \, p(v_s, v_g) \, \log_{2}\dfrac{p(v_s,v_g)}{p(v_s)p(v_g)}$$<br/>
 let, $$H(.)$$ denote the Shanon's Entropy function<br/>
 $$\begin{align}
-I(v_s, v_g) \, = \, H(v_s)\, - \, H(v_s|v_g) \\
-\; = H(v_g)\, - \, H(v_g|v_s) \\
-\; = H(v_s)\, + \,H(v_g) \, - \, H(v_s,v_g)\\
+I(v_s, v_g) \, &= \, H(v_s)\, - \, H(v_s|v_g) \\
+ &= H(v_g)\, - \, H(v_g|v_s) \\
+ &= H(v_s)\, + \,H(v_g) \, - \, H(v_s,v_g)
 \end{align}$$<br/> 
 
 ### Mutual information and KL divergence
