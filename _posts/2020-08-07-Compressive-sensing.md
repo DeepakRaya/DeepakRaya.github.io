@@ -7,5 +7,9 @@ mathjax: true
 ---
 * TOC
 {:toc}
-##The compressive sensing problem
+## The compressive sensing problem:
+If only few degrees of freedom are left after the compression of a signal, why not sense the signal more efficiently, i.e. take considerably less number of measurements than the actual size of the
+signal, and reconstruct the orginal signal from the measurements when required(e.g. at the Receiver end).
+#### Well, what advantage will this provide?
+It reduces the complexity of sensing device or sensors, without loss in the performance of the output. 
  
