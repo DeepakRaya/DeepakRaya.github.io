@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 include: true
 title:  "World of Wavelets"
 excerpt: "More efficient form of signal decomposition, which has lot of importance"
@@ -10,7 +9,8 @@ mathjax: true
 
 * TOC
 {:toc}
-
+Incomplete article.
+To be updated soon....
 ## Why Wavelets?: The intutuion behind wavelets
 
 
