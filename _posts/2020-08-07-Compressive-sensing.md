@@ -13,5 +13,5 @@ signal, and reconstruct the orginal signal from the measurements when required(e
 #### Well, what advantage will this provide?
 It reduces the complexity of sensing device or sensors, without loss in the performance of the required output. 
 ## The Compressive sensing Paradigm:
-Reconstruction of a sparse vector $ \mathbf{x} \in \mathcal{R}^{N} $, from the linear measurements $ \mathbf{y = Ax} \in \mathcal{R}^m $ , $ m<N $;
+Reconstruction of a sparse vector $$ \mathbf{x} \in \mathcal{R}^{N} $$, from the linear measurements $$ \mathbf{y = Ax} \in \mathcal{R}^m $$ , $$ m<N $$;
  
