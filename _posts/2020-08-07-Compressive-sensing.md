@@ -16,6 +16,6 @@ It reduces the complexity of sensing device or sensors, without loss in the perf
 ## The Compressive sensing Paradigm:
 Reconstruction of a sparse vector $$\mathbf{x}\, \in \,\mathcal{R}^{N}$$, from the linear measurements  $$\mathbf{y \,=\, Ax} \,\in \,\mathcal{R}^m$$ , $$m\,<\,N$$;
 ###### Two important questions to be considered:
-$$1.$$ How to construct the linear measurement process?
+$$1.$$ How to construct the linear measurement process? <br/>
 $$2.$$ How to reconstruct $$\mathbf{x}$$ from $$\mathbf{y \,=\, Ax}$$ ?
  
