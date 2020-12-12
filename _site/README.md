@@ -1,8 +1,14 @@
-## Welcome to My protfolio and github page
+## Welcome to My Website and Online Protfolio
+.
 
 
 
 
 
-**Leverages code from Sam Finlayson, and jemdoc markup complied to html;
+.
+
+
+**
+
+Leverages a mixture of code from Sam Finlayson's github.io repository and jemdoc light markup complied to html;
 
