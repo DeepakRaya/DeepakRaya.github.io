@@ -6,7 +6,7 @@ permalink: /learning-resources/
 ### Pattern Recognition and Machine Learning : class 2020 (Sept - Dec)
 
 | File | Description   |
-| :-----------: | :-------------: |
+|:-----------:|:-------------:|
 | [Programming Assignment 1](/files/PRML Programming Assignment 1.pdf) | Fundamentals of Linear Algebra and Probability |
 
 | [Programming Assignemnt 2](/files/PRML_Programming_asst_2.pdf) | Bayesian Decision Theory and K-NN|
