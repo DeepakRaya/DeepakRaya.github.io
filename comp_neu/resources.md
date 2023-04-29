@@ -6,6 +6,7 @@ permalink: /learning-resources/
 
 
 ### Brain, Behavior and Beyond: 2 Day Seminar (April 2023)
+
 | File | Description   |
 |:-----------:|:-------------:|
 | [Session 1](/files/PRML Programming Assignment 1.pdf) | Feedback Control in the Brain|
@@ -13,7 +14,7 @@ permalink: /learning-resources/
 | [Video](https://www.youtube.com/watch?v=klugqeiQAbo&list=PL49tyMExTjsalT5QI4jUycTRqMBLSCdSw&pp=gAQB) | Recording of the session|
 
 
-### Demystifying the Brain: class 2023 (Feb - Mar)
+### Demystifying the Brain: (Feb - Mar 2023),NPTEL
 
 | File | Description   |
 |:-----------:|:-------------:|
@@ -24,7 +25,7 @@ permalink: /learning-resources/
 | [Lectures](https://www.youtube.com/watch?v=-oaAfUGyu-g&list=PL49tyMExTjsbu8zWcDGlBnZi8lssphE_O&pp=gAQB) | Recording of the sessions|
 
 
-### AVD 614 Pattern Recognition and Machine Learning: class 2020 (Aug - Dec), IIST
+### AVD 614 Pattern Recognition and Machine Learning: (Aug - Dec, 2020), IIST
 
 | File | Description   |
 |:-----------:|:-------------:|
@@ -35,4 +36,4 @@ permalink: /learning-resources/
 | [Programming Tutorial 2](/files/Programming assignment 2_tutorial.ipynb) | jupyter notebook file for tutorial 2 |
 
 
-### Digital Signal Processing Lab: class 2020 (Jan - May) IIST
+### Digital Signal Processing Lab: (Jan - May, 2020) IIST
