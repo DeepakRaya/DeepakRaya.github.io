@@ -1,9 +1,28 @@
 ---
 layout: page
-title:  "AVD 614"
+title:  "Teaching Assistance"
 permalink: /learning-resources/
 ---
-### Pattern Recognition and Machine Learning : class 2020 (Sept - Dec)
+### Brain, Behavior and Beyond: 2 Day Seminar (April 2023)
+| File | Description   |
+|:-----------:|:-------------:|
+| [Session 1](/files/PRML Programming Assignment 1.pdf) | Feedback Control in the Brain|
+| [Session 2](/files/PRML_Programming_asst_2.pdf) | Reading the Minds: Decoding the Brain|
+| [Video](https://www.youtube.com/watch?v=klugqeiQAbo&list=PL49tyMExTjsalT5QI4jUycTRqMBLSCdSw&pp=gAQB) | Recording of the session|
+
+
+### Demystifying the Brain: class 2023 (Feb - Mar)
+
+| File | Description   |
+|:-----------:|:-------------:|
+| [Session 1](/files/PRML Programming Assignment 1.pdf) | Introduction to Neuroscience and Neuroanatomy |
+| [Session 2](/files/PRML_Programming_asst_2.pdf) | Biophysics of neuron signalling and Multilayer perceptron|
+| [Session 3](/files/PRML_Programming_asst_3.pdf) | Neuroscience of Vision, Self-Organizing Maps and Sub-cortical structures|
+| [Session 4](/files/Prog_Asst_1_tutorial.ipynb) | Memory, Hopfield Networks, Emotion and Reward processing|
+| [Lectures](https://www.youtube.com/watch?v=-oaAfUGyu-g&list=PL49tyMExTjsbu8zWcDGlBnZi8lssphE_O&pp=gAQB) | Recording of the sessions|
+
+
+### AVD 614 Pattern Recognition and Machine Learning: class 2020 (Aug - Dec), IIST
 
 | File | Description   |
 |:-----------:|:-------------:|
@@ -12,3 +31,6 @@ permalink: /learning-resources/
 | [Programming Assignment 3](/files/PRML_Programming_asst_3.pdf) | Density Estimation: MLE, MAP and Kernel Density Estimation |
 | [Programming Tutorial 1](/files/Prog_Asst_1_tutorial.ipynb) | jupyter notebook file for tutorial 1 |
 | [Programming Tutorial 2](/files/Programming assignment 2_tutorial.ipynb) | jupyter notebook file for tutorial 2 |
+
+
+### Digital Signal Processing Lab: class 2020 (Jan - May) IIST
