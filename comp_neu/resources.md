@@ -9,8 +9,8 @@ permalink: /learning-resources/
 
 | File | Description   |
 |:-----------:|:-------------:|
-| [Session 1](/files/PRML Programming Assignment 1.pdf) | Feedback Control in the Brain|
-| [Session 2](/files/PRML_Programming_asst_2.pdf) | Reading the Minds: Decoding the Brain|
+| [Session 1](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Feedback Control in the Brain|
+| [Session 2](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Reading the Minds: Decoding the Brain|
 | [Video](https://www.youtube.com/watch?v=klugqeiQAbo&list=PL49tyMExTjsalT5QI4jUycTRqMBLSCdSw&pp=gAQB) | Recording of the session|
 
 
@@ -18,10 +18,10 @@ permalink: /learning-resources/
 
 | File | Description   |
 |:-----------:|:-------------:|
-| [Session 1](/files/PRML Programming Assignment 1.pdf) | Introduction to Neuroscience and Neuroanatomy |
-| [Session 2](/files/PRML_Programming_asst_2.pdf) | Biophysics of neuron signalling and Multilayer perceptron|
-| [Session 3](/files/PRML_Programming_asst_3.pdf) | Neuroscience of Vision, Self-Organizing Maps and Sub-cortical structures|
-| [Session 4](/files/Prog_Asst_1_tutorial.ipynb) | Memory, Hopfield Networks, Emotion and Reward processing|
+| [Session 1](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Introduction to Neuroscience and Neuroanatomy |
+| [Session 2](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Biophysics of neuron signalling and Multilayer perceptron|
+| [Session 3](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Neuroscience of Vision, Self-Organizing Maps and Sub-cortical structures|
+| [Session 4](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Memory, Hopfield Networks, Emotion and Reward processing|
 | [Lectures](https://www.youtube.com/watch?v=-oaAfUGyu-g&list=PL49tyMExTjsbu8zWcDGlBnZi8lssphE_O&pp=gAQB) | Recording of the sessions|
 
 
