@@ -3,6 +3,8 @@ layout: page
 title:  "Teaching Assistance"
 permalink: /learning-resources/
 ---
+
+
 ### Brain, Behavior and Beyond: 2 Day Seminar (April 2023)
 | File | Description   |
 |:-----------:|:-------------:|
