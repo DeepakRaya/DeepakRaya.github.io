@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 #### [__Gaze Dependence of visual working memory representations__]()
-#### Advisor: Dr. Sridharan Devarajan, Center for Neuroscience, IISc, Banglore. 
+###### Advisor: Dr. Sridharan Devarajan, Center for Neuroscience, IISc, Banglore. 
 
 We are studying the neural mechanisms of interaction between eye movements & visual working memory representations in the brain
 by applying multivariate pattern decoding and spectral analysis to Electroencephalography (EEG) data recorded while humans participants
