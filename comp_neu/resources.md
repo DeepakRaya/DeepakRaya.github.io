@@ -13,6 +13,7 @@ permalink: /learning-resources/
 | [Session 2](https://indianinstituteofscience-my.sharepoint.com/:p:/g/personal/deepakvr_iisc_ac_in/EYYiceGBSXJJh_J2QvMhtCIB9fl6eQg_DwHbEF5VAoodLw?e=mASYAp) | Reading the Minds: Decoding the Brain|
 | [Video](https://www.youtube.com/watch?v=klugqeiQAbo&list=PL49tyMExTjsalT5QI4jUycTRqMBLSCdSw&pp=gAQB) | Recording of the session|
 
+----
 
 ### Demystifying the Brain: (Feb - Mar 2023),NPTEL
 
@@ -24,6 +25,7 @@ permalink: /learning-resources/
 | [Session 4](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Memory, Hopfield Networks, Emotion and Reward processing|
 | [Lectures](https://www.youtube.com/watch?v=-oaAfUGyu-g&list=PL49tyMExTjsbu8zWcDGlBnZi8lssphE_O&pp=gAQB) | Recording of the sessions|
 
+----
 
 ### AVD 614 Pattern Recognition and Machine Learning: (Aug - Dec, 2020), IIST
 
@@ -35,5 +37,8 @@ permalink: /learning-resources/
 | [Programming Tutorial 1](/files/Prog_Asst_1_tutorial.ipynb) | jupyter notebook file for tutorial 1 |
 | [Programming Tutorial 2](/files/Programming assignment 2_tutorial.ipynb) | jupyter notebook file for tutorial 2 |
 
+----
 
 ### Digital Signal Processing Lab: (Jan - May, 2020) IIST
+
+----
