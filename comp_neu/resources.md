@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Teaching Assistance"
+title:  ""
 permalink: /learning-resources/
 ---
 
