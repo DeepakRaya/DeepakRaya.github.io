@@ -8,7 +8,7 @@ permalink: /learning-resources/
 ### Neuroinformatics & Methods in Neuroscience
 
 | Recording| Description   | Slides | Code NBs
-|:-----------:|:-------------:|:-------------:|:-------------:
+|:-----------:|:-------------:|:-------------:|:-------------:|
 | [Session 0](https://youtu.be/8LQiM6mtdkA) | Intro to the couse| [Slides_Session_0](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/deepakvr_iisc_ac_in/Ebp1QrZ4zeZNnyNZYpsqSqwBaGTzKoLEiCAjdfUCRA1gng?e=Z4H3ed)
 | [Session 1](https://youtu.be/vnjQZMK4uMU) | Intro to EEG, sources of EEG, EEG acquisition, data format & preprocessing |[Slides_Session_1](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/deepakvr_iisc_ac_in/EayG5IfAg-5Elr8bLTkDrYgBngChmu25JyHzr9BzdTBKQg?e=W0wzhw)
 | [Session 2](https://youtu.be/tsVMHBTGil8v) | Visualizing EEG and ERPs; Fundamentals of time-frequency representation; filtering, sampling & rereferencing|[Slides_Session_2](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/deepakvr_iisc_ac_in/EYJV4xrh6Q9ArgLaLYFuOMwB_EVjQTllIZqxPtD1VkN5Jg?e=NXMIFV)
